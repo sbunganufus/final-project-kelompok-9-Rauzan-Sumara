@@ -13,6 +13,6 @@ Problem: classification
 
 Final Model: Random Forest dan Decision Tree
 
-Link Repositori: <link menuju repositori ini>
+Link Repositori: https://github.com/sbunganufus/final-project-kelompok-9-Rauzan-Sumara
 
 Link PPT: <link presentasi dalam google slides> 
