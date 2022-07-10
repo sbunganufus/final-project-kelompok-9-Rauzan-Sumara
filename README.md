@@ -15,4 +15,4 @@ Final Model: Random Forest dan Decision Tree
 
 Link Repositori: https://github.com/sbunganufus/final-project-kelompok-9-Rauzan-Sumara.git
 
-Link PPT: <link presentasi dalam google slides> 
+Link PPT: https://docs.google.com/presentation/d/1qnDszVY-WEYSOSsQd_BnplE7mtKuG5zc/edit?usp=sharing&ouid=103427214413672609159&rtpof=true&sd=true
